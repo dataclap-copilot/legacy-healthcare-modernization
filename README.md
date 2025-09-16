@@ -62,7 +62,7 @@ docker-compose -f docker/docker-compose.yaml up --build
 
 This will:
 
-Build all three services from their respective Dockerfiles
+Build all three services from their respective Dockerfiles.
 
 Expose ports:
 
